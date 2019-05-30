@@ -1,0 +1,16 @@
+
+1. mysql + session
+
+2. 表单验证  egg-validate
+
+3. 路由  koa-router  egg-router
+
+4. 静态文件 分配虚拟路径   koa-static( 为static创建虚拟路由， 自适应mime打开相应的文件 )
+
+5. node-mime 自适应content-type 
+
+6. logger日志插件 
+
+7. koa-router-namespace 为路由设立namespace防止路由冲突
+
+8. 
